@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * [/composeApp](./composeApp/src) is for code that will be shared across your Compose Multiplatform applications.
@@ -14,3 +15,6 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+=======
+# ExpenseTracker
+>>>>>>> 8a065a6a960655270d59996bf985a7fe1b5166e7
