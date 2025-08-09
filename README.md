@@ -61,10 +61,14 @@ This project was developed with extensive AI assistance using Cascade (Windsurf 
 - [x] **Date-based Filtering** - Filter expenses by date ranges
 
 ## 📱 APK Download
-[Download APK](https://github.com/mallikarjunpatelsh/ExpenseTracker/blob/master/androidApp-debug.apk) - Android Debug APK for testing
+[Download APK](https://github.com/mallikarjunpatelsh/ExpenseTracker/releases/download/v1.0.0/androidApp-debug.apk) - Android Debug APK for testing
 
 ## 📸 Screenshots
-*Screenshots will be added here once the app is fully deployed*
+<img width="120" height="240" alt="Screenshot_1754724320" src="https://github.com/user-attachments/assets/70adce2b-f4eb-449f-8a1b-3c5de12675ab" />
+<img width="120" height="240" alt="Screenshot_1754724325" src="https://github.com/user-attachments/assets/22aa9266-9e6e-483b-9a5b-49b6046454bc" />
+<img width="120" height="240" alt="Screenshot_1754724329" src="https://github.com/user-attachments/assets/e2352a5f-de40-4ced-b470-9c08540ec6e3" />
+<img width="120" height="240" alt="Screenshot_1754724336" src="https://github.com/user-attachments/assets/9ee76545-5446-4e45-90b1-0e110e56c15d" />
+
 
 ### Screenshots
 - Expense Entry Screen
